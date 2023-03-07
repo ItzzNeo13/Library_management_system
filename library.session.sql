@@ -41,3 +41,5 @@ INSERT INTO Book_log(book_title, book_author, book_genre,book_condition);
 
 -- Showing Data:
 SELECT * FROM member
+SELECT * FROM library_staff
+SELECT * FROM Book_log

@@ -60,5 +60,6 @@ After searching online for a while, I decided to go with a library management sy
 - [x] Adding data to DB.
 - [x] Retriving data from DB.
 - [x] Managing the DB via command line.
+- [x] Using .env tokens to log into DB
 
 # 

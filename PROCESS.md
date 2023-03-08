@@ -31,14 +31,27 @@ After searching online for a while, I decided to go with a library management sy
 2. `mysql : The term 'mysql' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.`
 
     **Caused by:** When I tried to log in though my system command line for the first time.
+    
     **Fixed by:** Adding SQL Path to Environment Variables (The same way you add python path).
     
     - - - - 
 3.  `error 2003 can't connect to mysql`
+
      **Caused by:** Trying to log in to non-root user (but with all privileges). Probably server was not running.
+     
      **Fixed by:** Reconfiguring the server or it started on itself when I was reconfiguring.
      
      - - - -
+
+4. `Module not found error for pymysql even when the module was installed`
+
+   **Caused by:** Probably device issue or idk.
+   
+   **Fixed by:** Writing the entire code for GUI in Replit IDE.
+   
+   **ALSO tried fixing by:** Uninstalling the module and reinstalling it in the Scripts directory for Python on my device.
+ 
+- - - -
 
 ### Things I learnt so far:
 - [x] Configuring a MySQL server.

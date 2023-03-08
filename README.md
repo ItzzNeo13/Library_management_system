@@ -9,6 +9,5 @@ If you are interested in behind-the-scenes of this mini project check of the PRO
 
 **TODO -** 
 
-- [ ] Fix the `ModuleNotFound` error in `user_interface.py` file.
-- [ ] Complete coding the Tkinter window to add new data to database.
+- [ ] FIx `Error 2003`
 - [ ] Probably add a second window to show the output of the database when query is passed.

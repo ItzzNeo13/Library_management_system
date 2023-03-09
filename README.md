@@ -7,7 +7,11 @@ If you are interested in behind-the-scenes of this mini project check of the PRO
 
 - - - -
 
+Kept this project aside due to `Error 2003` and upcoming exams. Might get back to it after I get time.
+
+- - - - 
+
 **TODO -** 
 
-- [ ] FIx `Error 2003`
+- [ ] Fix `Error 2003`
 - [ ] Probably add a second window to show the output of the database when query is passed.

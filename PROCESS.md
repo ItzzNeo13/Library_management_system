@@ -51,6 +51,12 @@ After searching online for a while, I decided to go with a library management sy
    
    **ALSO tried fixing by:** Uninstalling the module and reinstalling it in the Scripts directory for Python on my device.
  
+   - - - - 
+   
+5. `mysql.connector.errors.databaseerror 2003 (hy000)`
+    
+    Stuck on this one since two days as of writing this. Tried everything I possibly could: Temporarily disabled Firewall, reconfigured       server, ran various commands with and with admin, checked out ports. Nothing works. :|
+ 
 - - - -
 
 ### Things I learnt so far:
